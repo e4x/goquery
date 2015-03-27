@@ -1,7 +1,7 @@
 package goquery
 
 import (
-	"code.google.com/p/cascadia"
+	"github.com/e4x/cascadia"
 	"golang.org/x/net/html"
 )
 
